@@ -1,18 +1,43 @@
-# Awesome-API-Publishing-Distribution
+<div align="center">
 
-A curated list of awesome tools, frameworks, and platforms for publishing, distributing, documenting, and monetizing APIs.
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome API Publishing and Distribution Banner" width="100%" />
+</p>
+
+# 🚀 Awesome API Publishing & Distribution
+
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Publishing-Distribution?style=social)](https://github.com/ishandutta2007/Awesome-API-Publishing-Distribution/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
+<p align="center">
+  <strong>A curated index of top developer portals, interactive OpenAPI documentation frameworks, multi-language client SDK generators, API gateways, and monetization platforms.</strong>
+</p>
+
+<p align="center">
+  <a href="#-sector-overview--market-dynamics">Sector Overview</a> •
+  <a href="#-saas-products">SaaS Platforms</a> •
+  <a href="#-open-source-tools--frameworks">Open Source</a> •
+  <a href="#-star-history">Star History</a> •
+  <a href="#-support--sponsor">Support</a> •
+  <a href="#-contributing">Contributing</a>
+</p>
+
+</div>
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📈 Sector Overview & Market Dynamics
 
-The global API management and developer portal market is estimated at **$7.5B – $9.5B** (projected to exceed **$25B–$35B by the early 2030s** with a ~17–20% CAGR). The sector is **moderately fragmented**: high-volume API gateways, enterprise catalogs, and general lifecycle tooling lean toward consolidation among massive incumbents (such as Postman and SmartBear), whereas the API documentation, developer portal UI, and SDK publishing layer remains vibrantly fragmented with specialized modern challengers (such as Mintlify, Redocly, and Fern) driving rapid innovation.
+The global API management and developer portal market is estimated at **$7.5B – $9.5B** (projected to exceed **$25B–$35B by the early 2030s** with a ~17–20% CAGR). The sector is **moderately fragmented**: high-volume API gateways, enterprise catalogs, and general lifecycle governance lean toward consolidation among massive enterprise incumbents (such as Postman and SmartBear), whereas the API documentation, developer portal UI, and SDK publishing layer remains vibrantly fragmented with specialized modern challengers (such as Mintlify, Redocly, and Fern) driving rapid innovation.
 
 ---
 
-## SaaS Products
+## ☁️ SaaS Products
 
-| Product | Valuation / Revenue Scale | Pricing (Starting Tier) | Free Tier Limits |
+| Product | 🏢 Valuation / Revenue Scale | 💳 Pricing (Starting Tier) | 🎁 Free Tier Limits |
 | :--- | :--- | :--- | :--- |
 | **Postman** | Valuation: $5.6B (Primary Series D) / Revenue: ~$313M ARR | **Solo Plan:** $9/month (billed annually) or **Team Plan:** $19/user/month (billed annually) | **Free forever:** Strictly 1 user (shared team workspaces require paid upgrade), includes basic collection runs & API client features |
 | **SmartBear (SwaggerHub & Stoplight)** | Valuation: ~$1.8B–$2.0B (Vista Equity Partners & Francisco Partners) / Revenue: ~$150M+ ARR | **SwaggerHub Individual:** $19/user/month (billed annually) / **Team:** $29/user/month | **Free forever:** 1 user, up to 3 public APIs, 5 component domains (Stoplight free tier: 1 user, 1 project) |
@@ -25,11 +50,11 @@ The global API management and developer portal market is estimated at **$7.5B �
 
 ---
 
-## Open-Source Tools & Frameworks
+## 🛠️ Open-Source Tools & Frameworks
 
 Open-source tools and frameworks for generating interactive documentation, developer portals, and client libraries, sorted by GitHub stargazers count:
 
-| Project | Stars | Description | License |
+| Project | ⭐ Stars | 📝 Description | 📜 License |
 | :--- | :--- | :--- | :--- |
 | **[Slate](https://github.com/slatedocs/slate)** | [![GitHub stars](https://img.shields.io/github/stars/slatedocs/slate?style=social&color=white)](https://github.com/slatedocs/slate/stargazers) | Beautiful, responsive three-column static documentation generator for APIs inspired by Stripe and PayPal. | Apache-2.0 |
 | **[Backstage](https://github.com/backstage/backstage)** | [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Spotify's CNCF-stewarded developer portal platform with software catalog, TechDocs, templates, and plugin ecosystem. | Apache-2.0 |
@@ -46,6 +71,22 @@ Open-source tools and frameworks for generating interactive documentation, devel
 
 ---
 
-## Contributing
+## 🌟 Star History
 
-Contributions are welcome! Please submit a PR or open an issue to suggest additions or improvements to this list.
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-API-Publishing-Distribution&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-API-Publishing-Distribution&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for visiting and supporting **Awesome API Publishing & Distribution**! If you find this directory valuable for navigating API developer portals, SDK generators, and documentation architectures:
+
+- ⭐ **Star this repository** to bookmark and support future updates!
+- 🍴 **Fork and share** with fellow developers, API architects, and tech communities.
+- ☕ **Buy a coffee & sponsor** ongoing maintenance through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and corrections are warmly welcomed! Please submit a pull request or open an issue to propose new additions, pricing updates, or developer tooling.
